@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T09:57:54.740Z" agent="5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1" etag="fwnFAQPKRLOa_SMvey5N" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T09:59:22.103Z" agent="5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1" etag="hEuH9_11dm7uSTCMEzGc" version="20.6.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1032" dy="1537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="1673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -66,9 +66,6 @@
         <mxCell id="iri8NrxQWRcgBJ9o6gef-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-510" y="-360" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iri8NrxQWRcgBJ9o6gef-67" value="ลงบันได" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-780" y="250" width="120" height="85" as="geometry" />
-        </mxCell>
         <mxCell id="iri8NrxQWRcgBJ9o6gef-74" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=14.446666666666667;fontSize=12;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;endWidth=47.333333333333336;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="140" relative="1" as="geometry">
             <mxPoint x="-470" y="-639" as="sourcePoint" />
@@ -88,10 +85,16 @@
         </mxCell>
         <mxCell id="iri8NrxQWRcgBJ9o6gef-79" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=13.594444444444443;fontSize=12;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;endWidth=47.333333333333336;width=11.666666666666666;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="140" relative="1" as="geometry">
-            <mxPoint x="-452.8399999999999" y="-470" as="sourcePoint" />
-            <mxPoint x="-452.8399999999999" y="-360" as="targetPoint" />
+            <mxPoint x="-462.9199999999999" y="-320" as="sourcePoint" />
+            <mxPoint x="-462.9199999999999" y="-210" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iri8NrxQWRcgBJ9o6gef-80" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-534.36" y="-210" width="165.78" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iri8NrxQWRcgBJ9o6gef-81" value="เจอหอดาหลา พลับพลึง" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-534.36" y="-210" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
